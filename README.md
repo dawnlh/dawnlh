@@ -1,9 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dawnlh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-作者：FicowShen
-链接：https://www.jianshu.com/p/451b8d9c3315
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ### Let there be light.
 Hi, I'm dawnlh~
 
