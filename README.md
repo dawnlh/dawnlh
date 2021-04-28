@@ -2,7 +2,7 @@
 
 
 ### Let there be light.
-Hi, I'm dawnlh~
+**Hi, I'm dawnlh~**
 
 - 🔭 Focusing on computational imaging
 
