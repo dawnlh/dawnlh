@@ -19,5 +19,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawnlh&repo=low-light-image-enhancement-resources&theme=material-palenight" />
 </a>
 <a href="https://github.com/Scientific-Research-Algorithm-Toolbox/SCI-algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Scientific-Research-Algorithm-Toolbox&repo=SCI-algorithms" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Scientific-Research-Algorithm-Toolbox&repo=SCI-algorithms&theme=material-palenight" />
 </a>
