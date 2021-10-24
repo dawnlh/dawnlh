@@ -16,7 +16,7 @@
 
 
 <a href="https://github.com/dawnlh/low-light-image-enhancement-resources">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawnlh&repo=low-light-image-enhancement-resources&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawnlh&repo=awesome-low-light-image-enhancement&theme=material-palenight" />
 </a>
 <a href="https://github.com/Scientific-Research-Algorithm-Toolbox/SCI-algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Scientific-Research-Algorithm-Toolbox&repo=SCI-algorithms&theme=material-palenight" />
