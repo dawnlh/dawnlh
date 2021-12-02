@@ -1,7 +1,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dawnlh&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" />
 
-## Let there be light.
+## Insight, Inside.
 ### **Hi, I'm [dawnlh](https://github.com/dawnlh)~**
 
 - 🔭 Focusing on computational imaging
