@@ -9,7 +9,7 @@
 
 ## Dawnlh | insight, inside.
 
-[![Personal Website](https://img.shields.io/badge/Web-dawnlh-green)](https://dawnlh.github.io) [![Email](https://img.shields.io/badge/-dawnlh@163.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:dawnlh@163.com)](mailto:dawnlh@163.com) [![ZhiHu](https://img.shields.io/badge/ZhiHu-知乎-orange)](https://www.zhihu.com/people/ITgeek) [![GitHub Followers](https://img.shields.io/github/followers/dawnlh?style=social)](https://github.com/dawnlh)
+[![Personal Website](https://img.shields.io/badge/Web-dawnlh-green)](https://dawnlh.github.io) [![Email](https://img.shields.io/badge/-dawnlh@163.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:dawnlh@163.com)](mailto:dawnlh@163.com) [![ZhiHu](https://img.shields.io/badge/ZhiHu-知乎-orange)](https://www.zhihu.com/people/ITgeek)
 
 - 🔭 Focusing on computational imaging & computer vision
 
