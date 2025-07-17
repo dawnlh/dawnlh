@@ -7,11 +7,11 @@
 
 
 
-## dawnlh | insight, inside.
+## dawnlh | mind alight, heart aright.
 
 [![Personal Blog](https://img.shields.io/badge/Blog-dawnlh-green)](https://dawnlh.github.io) [![Email](https://img.shields.io/badge/-dawnlh@163.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:dawnlh@163.com)](mailto:dawnlh@163.com) [![ZhiHu](https://img.shields.io/badge/ZhiHu-知乎-orange)](https://www.zhihu.com/people/ITgeek)
 
-- 🔭 Focusing on computational imaging & computer vision
+- 🔭 Focusing on computational imaging, computer vision & deep learning.
 
 <!---<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawnlh&layout=compact&theme=buefy" />--->
 
